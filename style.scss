@@ -1,0 +1,15 @@
+$primary: #2a8f2a;
+$text: #2f2f2f;
+
+body {
+  background: #edfef0;
+  color: $text;
+  font-family: 'Arial', sans-serif;
+}
+
+.hero {
+  background: $primary;
+  color: #fff;
+  padding: 4rem;
+  text-align: center;
+}

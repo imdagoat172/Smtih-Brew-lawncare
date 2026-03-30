@@ -1,0 +1,10 @@
+{
+  "company": "Smith/Brew Lawncare LLC",
+  "type": "Black-owned lawncare",
+  "contact": {
+    "email": "Marcussmith481@gmail.com",
+    "phone": "678-544-7911"
+  },
+  "services": ["lawn mowing","grass planting","edge trimming","leaf removal","bushes","flowers"],
+  "legal": "LLC"
+}
